@@ -10,7 +10,7 @@ This project focuses on visual detail:
 
 ## Demo
 
-https://raw.githubusercontent.com/yash2k26/AI-send-button/main/public/github_video.mp4
+https://github.com/user-attachments/assets/50beaf45-6858-4fef-99dd-46e30830c815
 
 ## Tech Stack
 
