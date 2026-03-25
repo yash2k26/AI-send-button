@@ -10,9 +10,7 @@ This project focuses on visual detail:
 
 ## Demo
 
-<video src="./public/github_video.mp4" controls width="900"></video>
-
-[Direct video link](./public/github_video.mp4)
+https://raw.githubusercontent.com/yash2k26/AI-send-button/main/public/github_video.mp4
 
 ## Tech Stack
 
