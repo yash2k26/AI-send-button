@@ -10,7 +10,7 @@ This project focuses on visual detail:
 
 ## Demo
 
-https://github.com/user-attachments/assets/50beaf45-6858-4fef-99dd-46e30830c815
+![Image](https://github.com/user-attachments/assets/64c6905c-928f-43e6-bd47-63c054e1e461)
 
 ## Tech Stack
 
