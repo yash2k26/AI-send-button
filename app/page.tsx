@@ -1,6 +1,4 @@
-import Image from "next/image";
 import Searchbar from "./component/Searchbar";
-import LiquidBackground from "./component/LiquidBackground";
 
 export default function Home() {
   return (

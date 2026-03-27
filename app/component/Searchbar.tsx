@@ -1,3 +1,5 @@
+'use client'
+
 import { LiquidMetal } from '@paper-design/shaders-react'
 import React from 'react'
 
